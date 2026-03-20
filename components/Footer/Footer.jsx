@@ -17,7 +17,6 @@ export default function Footer() {
         <div className="footer-fon">
           <div className="footer-menu">
             <Link href="/">Главная</Link>
-            <Link href="/selskaya-ipoteka">Сельская ипотека</Link>
             <Link href="/catalog-proektov">Проектирование</Link>
             <Link href="/stoimost-stroitelstva">Расчет строительства</Link>
             <Link href="/design">Дизайн интерьера</Link>
