@@ -28,7 +28,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              политики конфиденциальности
+              политика конфиденциальности
             </Link>
           </div>
           <div className="footer-logo">
