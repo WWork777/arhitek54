@@ -23,6 +23,13 @@ export default function Footer() {
             <Link href="/price-list">Прайс-лист</Link>
             <Link href="/contacts">Контакты</Link>
             <Link href="https://rutube.ru/channel/27042220/">RUTUBE</Link>
+            <Link
+              href="/docs/ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ АРХИТЕК 54.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              политики конфиденциальности
+            </Link>
           </div>
           <div className="footer-logo">
             <span>АРХИТЕК</span>

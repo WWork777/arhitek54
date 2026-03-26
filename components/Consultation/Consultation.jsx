@@ -197,10 +197,9 @@ function Consultation() {
                       Нажимая на кнопку “отправить заявку”, я соглашаюсь с
                       условиями{" "}
                       <a
-                        href="#"
-                        type="button"
-                        data-bs-toggle="modal"
-                        data-bs-target="#сonfidentiality"
+                        href="/docs/ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ АРХИТЕК 54.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
                       >
                         политики конфиденциальности
                       </a>
